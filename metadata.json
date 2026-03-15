@@ -1,0 +1,7 @@
+{
+  "name": "Yadav Holidays",
+  "description": "Premium All India travel agency based in Haridwar, providing Char Dham Yatra, Pan-India tours, and reliable taxi services across the country.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
